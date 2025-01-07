@@ -10,3 +10,4 @@ If you have any query feel free to contact me on my linkedin-
 https://www.linkedin.com/in/krishal-batra-b21ab9311/ (link to my linkedin profile)
 Thanks for downloading....
 Krishal Batra
+Project URL - https://roadmap.sh/projects/single-page-cv
